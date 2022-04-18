@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react"
+import MapContainer from "./MapContainer"
+import JsonTest from "./JsonTest"
 
 function App() {
+  const [ input,setInput ] = useState("")
+
+  const handleChange = (e) =>{
+    setInput(e.target.value)
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>
+        <p>hello world!</p>
+        <MapContainer />
+        <div>
+          <input type="radio" name="param" value="기아" onChange={handleChange}/>기아
+          <br />
+          <input type="radio" name="param" value="대창모터스" onChange={handleChange}/>대창모터스
+          <JsonTest param={input} />
+        </div>
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

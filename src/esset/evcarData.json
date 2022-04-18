@@ -1,0 +1,108 @@
+{
+    "carList": [
+        {
+            "name": "EV6 롱레인지 2WD 19인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 185,
+            "mile_roomtmp": 483,
+            "mile_coldtmp": 446,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 77.506,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "EV6 롱레인지 2WD 20인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 185,
+            "mile_roomtmp": 445,
+            "mile_coldtmp": 411,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 77.506,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "EV6 롱레인지 4WD 19인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 188,
+            "mile_roomtmp": 458,
+            "mile_coldtmp": 414,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 77.506,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "EV6 롱레인지 4WD 20인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 188,
+            "mile_roomtmp": 407,
+            "mile_coldtmp": 380,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 77.506,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "EV6 스탠다드 2WD 19인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 185,
+            "mile_roomtmp": 377,
+            "mile_coldtmp": 347,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 58.124,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "EV6 스탠다드 4WD 19인치(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 188,
+            "mile_roomtmp": 362,
+            "mile_coldtmp": 324,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 58.124,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210802103005742_JEKTE29FY.png%2F20210802102632_q.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "니로(HP)(2022년)",
+            "maker": "기아",
+            "people": 5,
+            "distance": 167,
+            "mile_roomtmp": 385,
+            "mile_coldtmp": 348.5,
+            "battery_type": "리튬이온폴리머",
+            "capacity": 64.08,
+            "money": 700,
+            "tel": "080-200-2000",
+            "img": "https://search.pstatic.net/common?quality=75&direct=true&ttype=input&src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F5662_000_6%2F20210915125505948_CGMCNO52F.png%2F20210915124621_3.png%3Ftype%3Dm1500"
+        },
+        {
+            "name": "DANIGO(2022년)",
+            "maker": "대창모터스",
+            "people": 2,
+            "distance": 80,
+            "mile_roomtmp": 74.4,
+            "mile_coldtmp": 60.8,
+            "battery_type": "리튬이온",
+            "capacity": 7.25,
+            "money": 400,
+            "tel": "080-200-2000",
+            "img": "https://www.ev.or.kr/file/viewImage/?atch_id=MNIV239DGFRF"
+        }
+    ]
+}
