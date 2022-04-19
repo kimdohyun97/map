@@ -103,6 +103,19 @@
             "money": 400,
             "tel": "080-200-2000",
             "img": "https://www.ev.or.kr/file/viewImage/?atch_id=MNIV239DGFRF"
+        },
+        {
+            "name": "DANIGO(2022년)",
+            "maker": "대창모터스",
+            "people": 2,
+            "distance": 80,
+            "mile_roomtmp": 74.4,
+            "mile_coldtmp": 60.8,
+            "battery_type": "리튬이온",
+            "capacity": 7.25,
+            "money": 400,
+            "tel": "080-200-2000",
+            "img": "https://www.ev.or.kr/file/viewImage/?atch_id=MNIV239DGFRF"
         }
     ]
 }
